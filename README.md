@@ -14,5 +14,5 @@
   smtObj.on('action', (action) => {
     a.update(action.user.id)
   })
-
+...
  ```
